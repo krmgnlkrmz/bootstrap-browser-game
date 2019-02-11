@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/krmgnlkrmz/bootstrap-browser-game/blob/master/Screen-1.png) and ![Image](src)
+[https://github.com/krmgnlkrmz/bootstrap-browser-game/blob/master/Screen-1.png](https://github.com/krmgnlkrmz/bootstrap-browser-game/blob/master/Screen-1.png) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
